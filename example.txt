@@ -1,2 +1,1 @@
-This is my first file.
-my modifications.
+This is line from MAIN branch
